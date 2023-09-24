@@ -1,0 +1,30 @@
+local codes = {
+    RH2 = {
+        "happyfriday_RHC_2",
+        "journeyPassBoost",
+        "freeresetToken_2",
+        "freeRHC_2",
+        "freeresetToken_2",
+        "journeyPassBoost",
+        "thanksFor18Mil",
+        "thanksFor40KMembers",
+        "thanksFor60KFavs",
+    },
+    Hoops_Life = {
+        "RevampedDribbles",
+        "NewMascot",
+        "NewContent",
+        "48k",
+        "30k",
+        "GymUpdate",
+        "Shutdown",
+        "100XP",
+        "50XP",
+    },
+    Ultimate_Football = {
+        "Season4Hype",
+        "SEPNEWSLETTER",
+    }
+}
+
+return codes
